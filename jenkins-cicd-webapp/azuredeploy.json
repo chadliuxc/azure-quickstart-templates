@@ -48,7 +48,7 @@
     },
     "clientId": {
       "type": "string",
-      "defaultValue": "39d9b897-bb3a-4fb1-af8d-7da4c4491b97",
+      "defaultValue": "55e66ab1-e79a-449d-a171-ab94214b3c07",
       "minLength": 1,
       "metadata": {
         "description": "Client id for Azure service principal."
@@ -56,7 +56,7 @@
     },
     "clientSecret": {
       "type": "string",
-      "defaultValue": "80454e6b-7907-47ae-ba8f-29cdd8b8425d",
+      "defaultValue": "60a4f891-cb93-4593-8a07-cf1d2693b70d",
       "minLength": 1,
       "metadata": {
         "description": "Client secret for Azure service principal."
