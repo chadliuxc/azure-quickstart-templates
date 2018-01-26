@@ -88,7 +88,7 @@
     "appInsightsName": "[concat(parameters('appDnsPrefix'), 'AppInsights')]",
     "mySqlServerName": "[concat(toLower(parameters('appDnsPrefix')), 'mysqlserver')]",
     "mySqlDbName": "[concat(toLower(parameters('appDnsPrefix')), 'mysqldb')]",
-    "_artifactsLocation": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/jenkins-cicd-webapp/"
+    "_artifactsLocation": "https://raw.githubusercontent.com/chadliuxc/azure-quickstart-templates/master/jenkins-cicd-webapp/"
   },
   "resources": [
     {
