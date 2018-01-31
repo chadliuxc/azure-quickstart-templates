@@ -4,6 +4,7 @@
   "parameters": {
     "jenkinsVMAdminUsername": {
       "type": "string",
+      "defaultValue": "jenkinsadmin",
       "minLength": 1,
       "metadata": {
         "description": "User name for the Jenkins Virtual Machine."
@@ -71,6 +72,7 @@
     },
     "mySqlAdminLogin": {
       "type": "string",
+      "defaultValue": "adminLogin",
       "minLength": 3,
       "metadata": {
         "description": "User name for MySQL admin login."
